@@ -1,2 +1,2 @@
 # ClasesAnidadas
-Java: ejercicio clases anidadas
+Java: ejercicio clases anidadas//internal classes
